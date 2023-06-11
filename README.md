@@ -1,4 +1,4 @@
-# Exp_03SQL-query-to-show-the-top-n-records-of-the-table-using-Limit-method
+# Exp_03_SQL-query-to-show-the-top-n-records-of-the-table-using-Limit-method
 ## AIM:
 ### To show the n number of given columns by uing the LIMIT method in SQL.
 ## ALGORITHM:
